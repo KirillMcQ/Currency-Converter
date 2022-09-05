@@ -1,0 +1,7 @@
+﻿  Currency Converter.cpp
+C:\Users\mcqui\source\repos\Currency Converter\Currency Converter\Currency Converter.cpp(9,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcqui\source\repos\Currency Converter\Currency Converter\Currency Converter.cpp(13,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcqui\source\repos\Currency Converter\Currency Converter\Currency Converter.cpp(17,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\mcqui\source\repos\Currency Converter\Currency Converter\Currency Converter.cpp(24,20): warning C4101: 'out': unreferenced local variable
+C:\Users\mcqui\source\repos\Currency Converter\Currency Converter\Currency Converter.cpp(25,16): warning C4101: 'choiceOut': unreferenced local variable
+  Currency Converter.vcxproj -> C:\Users\mcqui\source\repos\Currency Converter\x64\Debug\Currency Converter.exe
